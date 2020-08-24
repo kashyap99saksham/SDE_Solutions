@@ -9,7 +9,7 @@
         }  
         return -1;
     }
-// Return All Duplicate elements [1 to n]
+// Return All Duplicate elements [1 to n] || Leetcode Problem
 vector<int> findDuplicates(vector<int>& nums) {
         vector<int>v;
         for (int i = 0; i < nums.size(); i++) 
